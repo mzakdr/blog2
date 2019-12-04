@@ -1,9 +1,9 @@
 ---
-title: "I Choose to Love You"
+title: "I Choose To Love You"
 date: 2019-12-04T20:16:02+08:00
 showDate: true
 draft: true
-tags: ["blog","story"]
+tags: ["rumi","love"]
 ---
 “I choose to love you in silence…
 For in silence I find no rejection,
