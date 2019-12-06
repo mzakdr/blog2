@@ -21,12 +21,12 @@ pygmentsCodefences       = true
     title                = "Muza's"
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "/birds"
+    text = "birds"
 
 [[params.mainMenu]]
-    link = "/other"
-    text = "other"
+    link = "/chirping"
+    text = "chirping"
 
 [[params.mainMenu]]
     link = "/about"
