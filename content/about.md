@@ -7,4 +7,4 @@ My name is Muza.
 
 This is my journey towards love. 
 
-Reach me at mzakdr@gmail.com
+Reach me at mzakdr@gmail.com or +60.10.455.6675.
